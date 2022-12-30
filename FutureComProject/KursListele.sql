@@ -1,0 +1,2 @@
+﻿CREATE VIEW KursListele
+	AS SELECT * FROM Kurs

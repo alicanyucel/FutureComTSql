@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Ogrenci]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Ad] NVARCHAR(50) NOT NULL, 
+    [Soyad] NVARCHAR(50) NOT NULL,
+   
+)

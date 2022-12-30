@@ -1,0 +1,10 @@
+C:\Users\Alican\source\Futurecom\FutureComProject\bin\Debug\FutureComProject.dacpac
+C:\Users\Alican\source\Futurecom\FutureComProject\bin\Debug\FutureComProject.dll
+C:\Users\Alican\source\Futurecom\FutureComProject\bin\Debug\FutureComProject.pdb
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\FutureComProject.sqlproj.AssemblyReference.cache
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\FutureComProject.dll
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\FutureComProject.pdb
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\Model.xml
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\refactor.xml
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\postdeploy.sql
+C:\Users\Alican\source\Futurecom\FutureComProject\obj\Debug\predeploy.sql

@@ -1,0 +1,1 @@
+﻿Create View OgretmenAra As Select * from Ogretmen where Ogretmen.OgretmenAd LIKE 'R%';

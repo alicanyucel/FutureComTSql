@@ -1,0 +1,6 @@
+Merhabalar, ben burada seçtiğim bazı tablolarda temel crate,read,update,delete ve search(filter) işlemleri için stored procedurler yazdım
+Onun haricinde her tablo için 2 şer tane views kullandım.Bunlar listeme ve filtreleme işlemi yapmaktadır.
+Kurs ve Öğretmen tablosunda many to many ilşkisi kurmak yerine left join le forms uygulamasında ve views kısmında birleştirme
+yaptım.Tablo çok fazla olursa büyük projelerde çok kaynak kullanır.
+Veri tabanının en son aldığım yedeğinide buraya ekledim.
+Saygılar.
